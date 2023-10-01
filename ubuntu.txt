@@ -1,0 +1,6 @@
+ubuntu 
+
+
+name : vamsikrishna
+
+pass : vamsi123
